@@ -1,2 +1,2 @@
 # Web based tool demo 
-![demo](demo/'web_demo.mp4')
+![demo](demo/web_demo.gif)
